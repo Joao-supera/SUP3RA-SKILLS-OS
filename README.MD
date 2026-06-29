@@ -1,5 +1,7 @@
 # SUP3RA Skills OS
 
+[![DOI](https://zenodo.org/badge/1284086821.svg)](https://doi.org/10.5281/zenodo.21038168)
+
 **A modular framework for transforming business processes into reusable AI agent skills.**
 
 > Prompt is instruction.  
